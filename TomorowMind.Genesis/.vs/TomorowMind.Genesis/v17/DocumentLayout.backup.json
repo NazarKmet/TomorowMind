@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nazar\\OneDrive\\Documents\\Git\\TomorowMind\\TomorowMind.Genesis\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{12D13CC5-B222-41ED-9432-6A6C47FDF242}|TomorowMind.Genesis.Application\\TomorowMind.Genesis.Application.csproj|c:\\users\\nazar\\onedrive\\documents\\git\\tomorowmind\\tomorowmind.genesis\\tomorowmind.genesis.application\\tomorowmind.genesis.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{12D13CC5-B222-41ED-9432-6A6C47FDF242}|TomorowMind.Genesis.Application\\TomorowMind.Genesis.Application.csproj|solutionrelative:tomorowmind.genesis.application\\tomorowmind.genesis.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54A45D7C-2CFE-4923-99C7-C2D1ADAF99B7}|TomorowMind.Genesis.Domain\\TomorowMind.Genesis.Domain.csproj|c:\\users\\nazar\\onedrive\\documents\\git\\tomorowmind\\tomorowmind.genesis\\tomorowmind.genesis.domain\\tomorowmind.genesis.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{54A45D7C-2CFE-4923-99C7-C2D1ADAF99B7}|TomorowMind.Genesis.Domain\\TomorowMind.Genesis.Domain.csproj|solutionrelative:tomorowmind.genesis.domain\\tomorowmind.genesis.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CE51FD7-297B-4974-B582-12D871F55DC1}|TomorowMind.Genesis.Web\\TomorowMind.Genesis.Web.csproj|c:\\users\\nazar\\onedrive\\documents\\git\\tomorowmind\\tomorowmind.genesis\\tomorowmind.genesis.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CE51FD7-297B-4974-B582-12D871F55DC1}|TomorowMind.Genesis.Web\\TomorowMind.Genesis.Web.csproj|solutionrelative:tomorowmind.genesis.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CE51FD7-297B-4974-B582-12D871F55DC1}|TomorowMind.Genesis.Web\\TomorowMind.Genesis.Web.csproj|c:\\users\\nazar\\onedrive\\documents\\git\\tomorowmind\\tomorowmind.genesis\\tomorowmind.genesis.web\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0CE51FD7-297B-4974-B582-12D871F55DC1}|TomorowMind.Genesis.Web\\TomorowMind.Genesis.Web.csproj|solutionrelative:tomorowmind.genesis.web\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CE51FD7-297B-4974-B582-12D871F55DC1}|TomorowMind.Genesis.Web\\TomorowMind.Genesis.Web.csproj|c:\\users\\nazar\\onedrive\\documents\\git\\tomorowmind\\tomorowmind.genesis\\tomorowmind.genesis.web\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0CE51FD7-297B-4974-B582-12D871F55DC1}|TomorowMind.Genesis.Web\\TomorowMind.Genesis.Web.csproj|solutionrelative:tomorowmind.genesis.web\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CE51FD7-297B-4974-B582-12D871F55DC1}|TomorowMind.Genesis.Web\\TomorowMind.Genesis.Web.csproj|c:\\users\\nazar\\onedrive\\documents\\git\\tomorowmind\\tomorowmind.genesis\\tomorowmind.genesis.web\\tomorowmind.genesis.web.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{0CE51FD7-297B-4974-B582-12D871F55DC1}|TomorowMind.Genesis.Web\\TomorowMind.Genesis.Web.csproj|solutionrelative:tomorowmind.genesis.web\\tomorowmind.genesis.web.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TomorowMind.Genesis.Application",
+              "DocumentMoniker": "C:\\Users\\Nazar\\OneDrive\\Documents\\Git\\TomorowMind\\TomorowMind.Genesis\\TomorowMind.Genesis.Application\\TomorowMind.Genesis.Application.csproj",
+              "RelativeDocumentMoniker": "TomorowMind.Genesis.Application\\TomorowMind.Genesis.Application.csproj",
+              "ToolTip": "C:\\Users\\Nazar\\OneDrive\\Documents\\Git\\TomorowMind\\TomorowMind.Genesis\\TomorowMind.Genesis.Application\\TomorowMind.Genesis.Application.csproj",
+              "RelativeToolTip": "TomorowMind.Genesis.Application\\TomorowMind.Genesis.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-07-08T23:07:43.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TomorowMind.Genesis.Domain",
+              "DocumentMoniker": "C:\\Users\\Nazar\\OneDrive\\Documents\\Git\\TomorowMind\\TomorowMind.Genesis\\TomorowMind.Genesis.Domain\\TomorowMind.Genesis.Domain.csproj",
+              "RelativeDocumentMoniker": "TomorowMind.Genesis.Domain\\TomorowMind.Genesis.Domain.csproj",
+              "ToolTip": "C:\\Users\\Nazar\\OneDrive\\Documents\\Git\\TomorowMind\\TomorowMind.Genesis\\TomorowMind.Genesis.Domain\\TomorowMind.Genesis.Domain.csproj",
+              "RelativeToolTip": "TomorowMind.Genesis.Domain\\TomorowMind.Genesis.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-07-08T23:05:26.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nazar\\OneDrive\\Documents\\Git\\TomorowMind\\TomorowMind.Genesis\\TomorowMind.Genesis.Web\\Program.cs",
+              "RelativeDocumentMoniker": "TomorowMind.Genesis.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\Nazar\\OneDrive\\Documents\\Git\\TomorowMind\\TomorowMind.Genesis\\TomorowMind.Genesis.Web\\Program.cs",
+              "RelativeToolTip": "TomorowMind.Genesis.Web\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-08T22:47:14.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\Nazar\\OneDrive\\Documents\\Git\\TomorowMind\\TomorowMind.Genesis\\TomorowMind.Genesis.Web\\Components\\App.razor",
+              "RelativeDocumentMoniker": "TomorowMind.Genesis.Web\\Components\\App.razor",
+              "ToolTip": "C:\\Users\\Nazar\\OneDrive\\Documents\\Git\\TomorowMind\\TomorowMind.Genesis\\TomorowMind.Genesis.Web\\Components\\App.razor",
+              "RelativeToolTip": "TomorowMind.Genesis.Web\\Components\\App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-08T22:46:30.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\Nazar\\OneDrive\\Documents\\Git\\TomorowMind\\TomorowMind.Genesis\\TomorowMind.Genesis.Web\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "TomorowMind.Genesis.Web\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\Nazar\\OneDrive\\Documents\\Git\\TomorowMind\\TomorowMind.Genesis\\TomorowMind.Genesis.Web\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "TomorowMind.Genesis.Web\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-08T22:45:36.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TomorowMind.Genesis.Web",
+              "DocumentMoniker": "C:\\Users\\Nazar\\OneDrive\\Documents\\Git\\TomorowMind\\TomorowMind.Genesis\\TomorowMind.Genesis.Web\\TomorowMind.Genesis.Web.csproj",
+              "RelativeDocumentMoniker": "TomorowMind.Genesis.Web\\TomorowMind.Genesis.Web.csproj",
+              "ToolTip": "C:\\Users\\Nazar\\OneDrive\\Documents\\Git\\TomorowMind\\TomorowMind.Genesis\\TomorowMind.Genesis.Web\\TomorowMind.Genesis.Web.csproj",
+              "RelativeToolTip": "TomorowMind.Genesis.Web\\TomorowMind.Genesis.Web.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-07-08T22:43:08.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

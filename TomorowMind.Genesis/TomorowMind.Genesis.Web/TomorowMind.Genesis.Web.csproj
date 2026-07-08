@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TomorowMind.Genesis.Application\TomorowMind.Genesis.Application.csproj" />
+    <ProjectReference Include="..\TomorowMind.Genesis.Infrastructure\TomorowMind.Genesis.Infrastructure.csproj" />
+    <ProjectReference Include="..\TomorowMind.Genesis.Persistence\TomorowMind.Genesis.Persistence.csproj" />
+    <ProjectReference Include="..\TomorowMind.Genesis.Shared\TomorowMind.Genesis.Shared.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35913.81 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TomorowMind.Genesis.Web", "TomorowMind.Genesis.Web\TomorowMind.Genesis.Web.csproj", "{0CE51FD7-297B-4974-B582-12D871F55DC1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TomorowMind.Genesis.Domain", "TomorowMind.Genesis.Domain\TomorowMind.Genesis.Domain.csproj", "{54A45D7C-2CFE-4923-99C7-C2D1ADAF99B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TomorowMind.Genesis.Application", "TomorowMind.Genesis.Application\TomorowMind.Genesis.Application.csproj", "{12D13CC5-B222-41ED-9432-6A6C47FDF242}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TomorowMind.Genesis.Infrastructure", "TomorowMind.Genesis.Infrastructure\TomorowMind.Genesis.Infrastructure.csproj", "{CC3B1D00-3A64-4F0D-B639-1976AFE917D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TomorowMind.Genesis.Persistence", "TomorowMind.Genesis.Persistence\TomorowMind.Genesis.Persistence.csproj", "{DDF375EE-0A3D-48D5-9403-B14DE6346B6C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TomorowMind.Genesis.Shared", "TomorowMind.Genesis.Shared\TomorowMind.Genesis.Shared.csproj", "{BE714E44-1913-45C8-A8DF-A9002DAE8E9F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0CE51FD7-297B-4974-B582-12D871F55DC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CE51FD7-297B-4974-B582-12D871F55DC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CE51FD7-297B-4974-B582-12D871F55DC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CE51FD7-297B-4974-B582-12D871F55DC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54A45D7C-2CFE-4923-99C7-C2D1ADAF99B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54A45D7C-2CFE-4923-99C7-C2D1ADAF99B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54A45D7C-2CFE-4923-99C7-C2D1ADAF99B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54A45D7C-2CFE-4923-99C7-C2D1ADAF99B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12D13CC5-B222-41ED-9432-6A6C47FDF242}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12D13CC5-B222-41ED-9432-6A6C47FDF242}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12D13CC5-B222-41ED-9432-6A6C47FDF242}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12D13CC5-B222-41ED-9432-6A6C47FDF242}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC3B1D00-3A64-4F0D-B639-1976AFE917D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC3B1D00-3A64-4F0D-B639-1976AFE917D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC3B1D00-3A64-4F0D-B639-1976AFE917D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC3B1D00-3A64-4F0D-B639-1976AFE917D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDF375EE-0A3D-48D5-9403-B14DE6346B6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDF375EE-0A3D-48D5-9403-B14DE6346B6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDF375EE-0A3D-48D5-9403-B14DE6346B6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDF375EE-0A3D-48D5-9403-B14DE6346B6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE714E44-1913-45C8-A8DF-A9002DAE8E9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE714E44-1913-45C8-A8DF-A9002DAE8E9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE714E44-1913-45C8-A8DF-A9002DAE8E9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE714E44-1913-45C8-A8DF-A9002DAE8E9F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {617DB816-4DF6-4A13-928D-9749BA1BF1F1}
+	EndGlobalSection
+EndGlobal
